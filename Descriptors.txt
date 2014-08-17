@@ -1,0 +1,19 @@
+# comments start with #
+# first number is min value
+# e.g. 1 < speed < 10 -> It's very slow 
+# e.g. 300 < price -> Expensive
+
+Speed    
+0 It doesn't move.
+1 It's very slow.			 
+10 It's sooooooo fast.
+
+Price
+0 Dirt cheap 
+100 Normal price
+300 Expensive
+
+Toilet
+0 It has no toilet. :(
+1 It has a luxurious commode.
+
