@@ -12,6 +12,7 @@ Price
 0 Dirt cheap 
 100 Normal price
 300 Expensive
+500 It'll cost an arm and a leg.
 
 Toilet
 0 It has no toilet. :(
